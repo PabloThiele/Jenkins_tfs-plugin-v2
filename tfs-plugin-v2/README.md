@@ -17,3 +17,11 @@ Wiki and Info
 [MIT Licence]: http://opensource.org/licenses/MIT
 [CloudBees]: https://jenkins.ci.cloudbees.com/job/plugins/job/tfs-plugin/
 [Jenkins JIRA]: http://issues.jenkins-ci.org/secure/IssueNavigator.jspa?mode=hide&reset=true&jqlQuery=project+%3D+JENKINS+AND+status+in+%28Open%2C+%22In+Progress%22%2C+Reopened%29+AND+component+%3D+%27tfs-plugin%27
+
+===========================================================
+
+Added one more flag to avoid long time TFS workspace listing...
+
+Using on TF workspaces search the TFS username can provide a faster response.
+
+Just flag the "Use TFS User on search" to make the lookup and code download better.
