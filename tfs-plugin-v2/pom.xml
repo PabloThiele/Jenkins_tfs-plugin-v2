@@ -8,7 +8,7 @@
 
   <artifactId>tfs</artifactId>
   <packaging>hpi</packaging>
-  <name>Team Foundation Server Plug-in</name>
+  <name>1 Team Foundation Server Plug-in</name>
   <version>4.0.1-SNAPSHOT</version>
   <url>http://wiki.jenkins-ci.org/display/JENKINS/Team+Foundation+Server+Plugin</url>
   <properties>
